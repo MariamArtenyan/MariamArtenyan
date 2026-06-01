@@ -16,7 +16,7 @@ I transform ideas into production-ready web and mobile applications.
 
 I am a Full Stack Developer focused on creating high-performance applications that solve real business problems.
 
-My expertise spans the entire development lifecycle—from designing intuitive user interfaces to architecting scalable backend systems and APIs.
+My expertise spans the entire development lifecycle from designing intuitive user interfaces to architecting scalable backend systems and APIs.
 
 ### What I Do
 
